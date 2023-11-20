@@ -31,3 +31,7 @@ Cargo.lock
 rust-toolchain
 *.rs.bk
 *.rs.fmt
+
+# local
+
+command.md
